@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "RaspberryPi4",
   "pluginType": "platform",
   "singular": true,
   "schema": {
